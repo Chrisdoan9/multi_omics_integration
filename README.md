@@ -6,5 +6,12 @@ Updated link (as Jan 2 2026) to the dataset of muon tutorial using MOFA (multiom
 https://github.com/scverse/muon-tutorials/tree/master/single-cell-rna-atac/pbmc10k  
 https://www.10xgenomics.com/datasets/pbmc-from-a-healthy-donor-granulocytes-removed-through-cell-sorting-10-k-1-standard-1-0-0
 
+Download these files to follow along the tutorial:
+
+pbmc_granulocyte_sorted_10k_filtered_feature_bc_matrix.h5  
+pbmc_granulocyte_sorted_10k_atac_fragments.tsv.gz  
+pbmc_granulocyte_sorted_10k_atac_fragments.tsv.gz.tbi  
+pbmc_granulocyte_sorted_10k_atac_peak_annotation.tsv  
+
 To learn more about muon (multimodal omics Python framework): https://github.com/scverse/muon
 
